@@ -1,3 +1,4 @@
+<?php
 class FDL_Builder_Module_Fullwidth_Portfolio extends ET_Builder_Module {
 	function init() {
 		$this->name       = __( 'Fullwidth Portfolio', 'et_builder' );
