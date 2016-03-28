@@ -13,3 +13,4 @@ This is my test
 Add another line
 
 we are going to test something else
+Ok - this is fixed
